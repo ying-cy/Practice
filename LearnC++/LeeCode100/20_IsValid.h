@@ -26,9 +26,19 @@ class _IsValid_h : public BASE {
 public:
     virtual void main()
     {
-        string s = "()";
-        bool result = isValid(s);
-        cout << "bool: " << (int)result << endl;
+//        string s = "()";
+//        bool result = isValid(s);
+//        cout << "bool: " << (int)result << endl;
+        
+        int a = 10, b = 10;
+
+        int aRes = a++;
+        cout << "a = " << a << endl;
+        cout << "a的返回值：" << aRes << endl;
+
+        int bRes = ++b;
+        cout << "b = " << b << endl;
+        cout << "b的返回值：" << bRes << endl;
     }
     
     bool isValid(string s) {

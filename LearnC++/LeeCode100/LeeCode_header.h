@@ -16,6 +16,7 @@
 #include "02_AddTwoNum.h"
 #include "03_LengthOfLongestSubstring.h"
 #include "05_LongestPalindrome.h"
+#include "11_maxArea.h"
 #include "14_LongestCommonPrefix.h"
 #include "19_DeleteLinkedNode.h"
 #include "20_IsValid.h"

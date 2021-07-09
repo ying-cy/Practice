@@ -47,6 +47,7 @@
 		017DF18B2662733000430974 /* 05_LongestPalindrome.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 05_LongestPalindrome.h; sourceTree = "<group>"; };
 		018BC785269525A800511B9A /* 169_majorityElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 169_majorityElement.h; sourceTree = "<group>"; };
 		018BC78626967C1D00511B9A /* 148_sortList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 148_sortList.h; sourceTree = "<group>"; };
+		018BC7872698942300511B9A /* 11_maxArea.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 11_maxArea.h; sourceTree = "<group>"; };
 		01956AEB2625754D002012FB /* 02_AddTwoNum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 02_AddTwoNum.h; sourceTree = "<group>"; };
 		01956AED2628212C002012FB /* 206_ReverseLinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 206_ReverseLinkedList.h; sourceTree = "<group>"; };
 		01956AEE2628216B002012FB /* FastSlowPointer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FastSlowPointer.h; sourceTree = "<group>"; };
@@ -159,6 +160,7 @@
 				01DA6D022692832C006FC7E3 /* 234_isPalindrome.h */,
 				018BC785269525A800511B9A /* 169_majorityElement.h */,
 				018BC78626967C1D00511B9A /* 148_sortList.h */,
+				018BC7872698942300511B9A /* 11_maxArea.h */,
 			);
 			path = LeeCode100;
 			sourceTree = "<group>";
